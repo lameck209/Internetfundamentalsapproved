@@ -1,8 +1,5 @@
-*{
-    background-image: linear-gradient(top #a83030(0,0,0,0,0.5)50%, #1c0d0d(0,0,0,0,0.5)50%,);
-}
 body{
-    background-image: url(keyboard1.jpg);
+    background-image: url(keyboard.jpg);
     background-repeat:no-repeat;
     background-attachment: scroll;
     background-size: cover;
